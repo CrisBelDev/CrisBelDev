@@ -1,6 +1,6 @@
 # Cristian Abel
 
-¡Hola! Soy Cristian Abel, un desarrollador apasionado por la tecnología y el código limpio.
+¡Hola! Soy Cristian Abel, un desarrollador apasionado por la tecnología. 
 
 ## Skills
 
