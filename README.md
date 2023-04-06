@@ -12,13 +12,12 @@ Soy un desarrollador de software con experiencia en Java, Python, HTML, JavaScri
 - PostgreSQL
 - PHP
 - C#
-<!-- 
+
 ## 🌟 Proyectos destacados
 
-- [Proyecto 1](https://github.com/proyecto1): Descripción del proyecto.
-- [Proyecto 2](https://github.com/proyecto2): Descripción del proyecto.
-- [Proyecto 3](https://github.com/proyecto3): Descripción del proyecto.
--->
+- [Juez Pato JvUmsa](https://github.com/CrisBelDev/ejercicios-Juez-Pato:) Soluciones de los ejercicios de la plataforma.
+
+
 ## 📫 Cómo contactarme
 
 - <!--LinkedIn: [Cristian Abel](https://www.linkedin.com/in/cristian-abel/)-->
