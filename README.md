@@ -15,7 +15,7 @@ Soy un desarrollador de software con experiencia en Java, Python, HTML, JavaScri
 
 ## 🌟 Proyectos destacados
 
-- [Juez Pato JvUmsa](https://github.com/CrisBelDev/ejercicios-Juez-Pato:) Soluciones de los ejercicios de la plataforma.
+- [Juez Pato JvUmsa](https://github.com/CrisBelDev/ejercicios-Juez-Pato): Soluciones de los ejercicios de la plataforma.
 
 
 ## 📫 Cómo contactarme
