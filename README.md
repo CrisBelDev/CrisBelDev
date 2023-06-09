@@ -22,8 +22,6 @@ Soy un desarrollador de software con experiencia en Java, Python, HTML, JavaScri
 
 
 ## 📫 Cómo contactarme
-
-- <!--LinkedIn: [Cristian Abel](https://www.linkedin.com/in/cristian-abel/)-->
 - GitHub: [@CrisBelDev](https://github.com/CrisBelDev)
 
 
